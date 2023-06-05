@@ -1,4 +1,4 @@
 # dizajn-lab3
 
-username - admin
-password - adminpasvord
+## username - admin
+## password - adminpasvord
